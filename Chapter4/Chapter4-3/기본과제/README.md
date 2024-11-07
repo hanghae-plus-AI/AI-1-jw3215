@@ -8,12 +8,15 @@
 ## LoRA rank 별 메트릭
 
 1. rank 8
+
 ![rank 8](./resources/rank-8.png)
 
 2. rank 128
+
 ![rank 128](./resources/rank-128.png)
 
 3. rank 256
+
 ![rank 256](./resources/rank-256.png)
 
 ## 정리
