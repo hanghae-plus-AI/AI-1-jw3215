@@ -1,6 +1,6 @@
 # 심화 과제
 
-Chapter 4-1의 심화과제를 대상으로 모델 경량화 했습니다.
+[Chapter 4-1 심화과제](https://github.com/hanghae-plus-AI/AI-1-jw3215/tree/main/Chapter4/Chapter4-1/%EC%8B%AC%ED%99%94%EA%B3%BC%EC%A0%9C)를 대상으로 모델 경량화 했습니다.
 
 ## FP16 vs FP32
 
